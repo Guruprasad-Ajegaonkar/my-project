@@ -13,7 +13,4 @@ public class App01GamingBasicJava {
 		var gameRunner=new GameRunner(game);
 		gameRunner.run();
 	}
-
-
-	
 }
