@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+
+metadata:
+  name: springboot-config
+  namespace: springboot
+
+data:
+  SPRING_PROFILES_ACTIVE: dev
